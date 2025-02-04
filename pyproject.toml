@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "app-name"
+name = "CUNY_QC"
 version = "0.1.0"
-description = "A beautiful description."
-authors = ["Reinder Vos de Wael <reinder.vosdewael@childmind.org>"]
-license = "LGPL-2.1"
+description = "Camilla's contributions to quality control checks to the CUNY project"
+authors = ["camillastrauss <camilla.k.strauss@gmail.com>"]
+license = ""
 readme = "README.md"
-packages = [{include = "APP_NAME", from = "src"}]
+packages = [{include = "CUNY_QC", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "~3.11"
